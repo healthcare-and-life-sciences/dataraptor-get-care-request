@@ -1,3 +1,4 @@
+![](/images/ahlsbanner.png)
 <h1 id='IeVACAlHMO3'>A-HLS - DataRaptor Library Documentation - DRgetCareRequest</h1>
 
 <hr style='width:100%'><i>This DataRaptor acts as a base for developers to get information quickly about a Care Request.</i><br/>
